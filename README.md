@@ -1,6 +1,10 @@
 # Olá, eu sou o Thiago Jesus  
 
-🖥 Atualmente concluindo Bootcamp com a Dio com foco em Backend em Kotlin, API Rest e Persistência de Dados, quero construir um sólido portfólio com vários projetos em diferentes linguagens de programação. Estou altamente motivado, sou detalhista e especialista em resolução de problemas.
+🖥 Atualmente, estou cursando Python Data Analytics pela Dio e o programa Google Data Analytics. Concluí minha graduação em Gestão de TI (BTech) na FIAP.
+
+Como profissional apaixonado e adaptável, tenho habilidade em resolver problemas complexos e impulsionar mudanças impactantes. Com experiência em gestão de TI e uma sólida base em análise de dados, trago uma combinação única de conhecimento técnico e habilidades de liderança para a mesa.
+
+Metodologias ágeis: PMBOK, Kanban e Scrum.
 
 🎓 Formado pela Fiap em Gestão de Tecnologia da Informação.
 
