@@ -1,10 +1,9 @@
 # 🖥️ Olá, eu sou o Thiago Jesus  
-Atualmente, estou cursando Python Data Analytics pela Dio e o programa Google Data Analytics. Concluí minha graduação em Gestão de TI (BTech) na FIAP.
+Meu objetivo é garantir uma vaga como Analista de Dados. Sigo minha jornada na plataforma DIO aprendendo a analisar e tratar dados no Bootcamp Python Data Analytics com as ferramentas de Machine Learning e Power BI, além desse curso recebi uma bolsa pela Coursera no curso de Google Data Analytics com duração de 178 horas.
+Possuo experiência com tratamento e análise de dados em relatórios de auditoria para escritórios de Direito usando o Excel e gráficos no Powerpoint.
 
-Como profissional apaixonado e adaptável, tenho habilidade em resolver problemas complexos e impulsionar mudanças impactantes. Com a experiência que obtive na graduação de Gestão de TI e uma sólida base em estudos de análise de dados, trago uma combinação única de conhecimento técnico e habilidades de liderança para a mesa.
- 
-
-Metodologias ágeis: PMBOK, Kanban e Scrum.
+Metodologias ágeis: Kanban e Scrum.
+Coletâneas com práticas reais: PMBOK.
 
 🎓 Formado pela Fiap em Gestão de Tecnologia da Informação.
 
