@@ -1,5 +1,5 @@
 # 🖥️ Olá, eu sou o Thiago Jesus  
-Meu objetivo é garantir uma vaga como Analista de Dados. Sigo minha jornada na plataforma DIO aprendendo a analisar e tratar dados no Bootcamp Python Data Analytics com as ferramentas de Machine Learning e Power BI, além desse curso recebi uma bolsa pela Coursera no curso de Google Data Analytics com duração de 178 horas.
+Meu objetivo é garantir uma vaga como Analista de Dados. Sigo minha jornada na plataforma DIO aprendendo a analisar e tratar dados no Bootcamp Python Data Analytics com as ferramentas de Machine Learning e Power BI, ademais recebi uma bolsa pela Coursera no curso de Google Data Analytics com duração de 178 horas.
 Possuo experiência com tratamento e análise de dados em relatórios de auditoria para escritórios de Direito usando o Excel e gráficos no Powerpoint.
 
 Metodologias ágeis: Kanban e Scrum.
