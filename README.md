@@ -5,7 +5,7 @@ Possuo experiência com tratamento e análise de dados em relatórios de auditor
 Metodologias ágeis: Kanban e Scrum.
 Coletâneas com práticas reais: PMBOK.
 
-🎓 Formado pela Fiap em Gestão de Tecnologia da Informação.
+🎓 Formado pela FIAP em Gestão de Tecnologia da Informação.
 
 🚀 Sonho em me tornar programador e Analista de Dados. 
 
