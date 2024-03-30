@@ -12,7 +12,6 @@ Coletâneas com práticas reais: PMBOK.
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-f8f8f2?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/thiago-jesus15/)
-[![Instagram](https://img.shields.io/badge/Instagram-f8f8f2?style=for-the-badge&logo=instagram)](https://www.instagram.com/______thiagojesus/)
 
 
 ## Habilidades
